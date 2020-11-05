@@ -9,4 +9,7 @@ public class User {
     public void cc1(){
         System.out.println("cc2");
     }
+    public void cc2(){
+        System.out.println("ccfadfsaf");
+    }
 }
