@@ -6,4 +6,7 @@ public class User {
     public void cc(){
         System.out.println("ccc>>>>~~~~!!!!");
     }
+    public void cc1(){
+        System.out.println("cc2");
+    }
 }
