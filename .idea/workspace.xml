@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97cd9ead-7513-4927-bdcf-5fec59ac14d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Environment\apache-maven-3.6.3\maven-repo" />
+        <option name="mavenHome" value="E:\idea\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\Environment\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1js5BPKcjRZ6ee3HiJ5tCOJ1VOK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97cd9ead-7513-4927-bdcf-5fec59ac14d0" name="Default Changelist" comment="" />
+      <created>1604579824861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604579824861</updated>
+      <workItem from="1604579826076" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="688" y="181" key="FileChooserDialogImpl" timestamp="1604579872642">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="688" y="181" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604579872642" />
+    <state x="283" y="101" key="new project wizard" timestamp="1604579888026">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="283" y="101" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1604579888026" />
+  </component>
+</project>
